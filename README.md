@@ -15,14 +15,7 @@ The simulator demonstrates **bandwidth allocation, MIMO channel effects, latency
 
 ---
 
-## 📂 Project Structure
-5g-sim/
-├─ simulator.py # Main simulation script
-├─ requirements.txt # Dependencies (numpy, pandas, matplotlib)
-└─ output/ # Generated CSV + PNG results
-1. Clone the repository:
 
-   git clone https://github.com/Mouneshpawar09/5G-Network-QoS-Simulator
 Create a virtual environment (recommended):
 python -m venv venv
 source venv/bin/activate   # On Mac/Linux
